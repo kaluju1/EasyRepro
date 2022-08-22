@@ -1,0 +1,3 @@
+//KILL THE CHROMEDRIVER PROCESS for error " Unable to delete the Chromedriver from bin.."
+
+taskkill /f /im chromedriver.exe
